@@ -1,0 +1,7 @@
+# Internships you applied to: one Apply link per line, copied from README.md or Discord.
+# Anything after the link is a note. Lines starting with # are ignored.
+# Applied ones get their own section in the README and are never sent to Discord again.
+# Saving this file on GitHub refreshes the README within a minute.
+#
+# Example:
+# https://job-boards.greenhouse.io/profluent/jobs/5441955008  applied 2026-10-03, referral from X
