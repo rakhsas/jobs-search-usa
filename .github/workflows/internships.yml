@@ -6,6 +6,14 @@ on:
   schedule:
     - cron: "17 */6 * * *" # every 6 hours (off the hour, when GitHub's scheduler is less busy)
   workflow_dispatch:
+  # Also run right away when the script or this workflow changes (the bot's own commits only
+  # touch README.md, so they never trigger this).
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/internships.yml"
+      - "find-internships.mjs"
+      - "find-internships.test.mjs"
 
 permissions:
   contents: write # commit the refreshed list
