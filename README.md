@@ -1,16 +1,28 @@
 # US Software Engineering Internships
 
-**1302 open internships** in the USA · **119 new** in the last 7 days · data as of 2026-10-02
+**1302 open internships** you haven't applied to · **0 new** since the last check ·
+**119** posted in the last 7 days · **0** applied · data as of 2026-10-02
 
-Refreshed automatically every 6 hours by GitHub Actions (`.github/workflows/internships.yml`) from the
-community-maintained [SimplifyJobs internship list](https://github.com/SimplifyJobs/Summer2027-Internships). Only listings that are still open,
-in a software engineering category, and located in the USA (or remote in the USA) are kept.
+Refreshed every 6 hours by GitHub Actions (`.github/workflows/internships.yml`) from the
+community-maintained [SimplifyJobs internship list](https://github.com/SimplifyJobs/Summer2027-Internships): open listings, software engineering,
+located in the USA (or remote in the USA). New ones are also posted to Discord.
+
+**Applied to one?** Copy its Apply link into [applied.txt](applied.txt) (one per line, a note after it is
+fine). It moves to the Applied section and is never sent to Discord again.
 
 **Visa column** (as reported by the source): 1 sponsor a visa ·
 7 don't sponsor · 3 require US citizenship ·
 the rest don't say, so check the posting.
 
-## New this week
+## New since the last check
+
+_Nothing here right now._
+
+## Applied
+
+_None yet. Add Apply links to [applied.txt](applied.txt), one per line._
+
+## Posted this week
 
 | Company | Role | Location | Season | Posted | Visa | Apply |
 |---|---|---|---|---|---|---|
