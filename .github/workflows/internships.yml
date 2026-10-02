@@ -1,0 +1,43 @@
+name: US internships
+
+# Refreshes README.md with every open software engineering internship in the USA.
+# Scheduled runs only happen on the repository's default branch; use "Run workflow" to trigger by hand.
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours (off the hour, when GitHub's scheduler is less busy)
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit the refreshed list
+
+concurrency:
+  group: internships
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Test the filters
+        run: node --test find-internships.test.mjs
+
+      - name: Fetch internships and rebuild the list
+        run: node find-internships.mjs
+
+      # The README only changes when listings do, so most runs end here without a commit.
+      - name: Commit if the list changed
+        run: |
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No change in listings."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update US internships list"
+          git push
