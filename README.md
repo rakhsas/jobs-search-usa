@@ -1,6 +1,6 @@
 # US Software Engineering Internships
 
-**1338 open internships** you haven't applied to · **208 new** since the last check ·
+**1336 open internships** you haven't applied to · **208 new** since the last check ·
 **139** posted in the last 7 days · **0** applied · data as of 2026-10-10
 
 Refreshed every 6 hours by GitHub Actions (`.github/workflows/internships.yml`) from the
@@ -943,7 +943,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Zipline | Change Management Intern - Spring 2027 | South SF | Spring 2027 | 2026-09-10 | Not stated | [Apply](https://www.zipline.com/open-roles/7990677003?gh_jid=7990677003) |
 | Exegy | Software Engineer Intern | St. Louis, MO | Summer 2026 | 2026-09-10 | Not stated | [Apply](https://jobs.ashbyhq.com/exegy/dc2b27b5-9569-4d86-9b30-456a4ccf29a5/application?embed=true) |
 | Perpay | Software Engineer Intern | Philadelphia, PA | Summer 2027 | 2026-09-10 | Not stated | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4076988007) |
-| Johns Hopkins Applied Physics Laboratory | Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems | Laurel, MD | Summer 2027 | 2026-09-10 | Not stated | [Apply](https://careers.jhuapl.edu/jobs/59997?icims=1) |
 | General Dynamics Mission Systems | Systems Engineer Intern | Scottsdale, AZ | Winter 2026 | 2026-09-10 | Not stated | [Apply](https://careers-gdms.icims.com/jobs/74773/job?mobile=true&needsRedirect=false) |
 | Texas Instruments | Information Technology Intern - Software | Dallas, TX | Winter 2026 | 2026-09-10 | Not stated | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017625) |
 | Hearst | Software Engineer Intern | Indianapolis, IN | Winter 2026 | 2026-09-10 | Not stated | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455) |
@@ -1716,4 +1715,3 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Northrop Grumman | Software Engineer - Cloudworks - Skillbridge | Wright-Patterson AFB, OH | — | 2026-02-17 | Not stated | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395) |
 | Mercor | Software Engineer Intern | SF | Winter 2025, Spring 2025, Summer 2025, Fall 2025, Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-02-13 | Not stated | [Apply](https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application) |
 | ByteDance | Software Engineer Intern - AI Infrastructure | San Jose, CA | Summer 2026 | 2026-02-13 | Not stated | [Apply](https://jobs.bytedance.com/en/position/7595756835349973253/detail) |
-| Fanatics | Collectibles - Software Engineer | NYC, LA, Coppell, TX | Summer 2026 | 2026-02-12 | Not stated | [Apply](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26727) |
