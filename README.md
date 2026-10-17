@@ -1,7 +1,7 @@
 # US Software Engineering Internships
 
-**1342 open internships** you haven't applied to · **289 new** since the last check ·
-**98** posted in the last 7 days · **0** applied · data as of 2026-10-17
+**1340 open internships** you haven't applied to · **288 new** since the last check ·
+**97** posted in the last 7 days · **0** applied · data as of 2026-10-17
 
 Refreshed every 6 hours by GitHub Actions (`.github/workflows/internships.yml`) from the
 community-maintained [SimplifyJobs internship list](https://github.com/SimplifyJobs/Summer2027-Internships): open listings, software engineering,
@@ -105,7 +105,6 @@ the rest don't say, so check the posting.
 | Crown Innovations | Intern | Mountain View, CA | — | 2026-10-12 | Not stated | [Apply](https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144112445) |
 | General Dynamics Information Technology | Software Development Intern | Falls Church, VA | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1) |
 | AtkinsRéalis | Software Developer Intern | Denver, CO | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1) |
-| RTX | Software Engineer Intern | Fullerton, CA | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741) |
 | Corewell Health | Digital Services Development Support and Operations Internship | Grand Rapids, MI, Southfield, MI, St Joseph, MI | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Development-Support-and-Operations-Internship-Summer-2027_R227468) |
 | Nissan Global | Financial AI Engineer Intern | Franklin, TN | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241) |
 | KLA | AI/ML Software Engineer Intern | Ann Arbor, MI | — | 2026-10-12 | Not stated | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1) |
@@ -403,7 +402,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Crown Innovations | Intern | Mountain View, CA | — | 2026-10-12 | Not stated | [Apply](https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144112445) |
 | General Dynamics Information Technology | Software Development Intern | Falls Church, VA | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1) |
 | AtkinsRéalis | Software Developer Intern | Denver, CO | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1) |
-| RTX | Software Engineer Intern | Fullerton, CA | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741) |
 | Corewell Health | Digital Services Development Support and Operations Internship | Grand Rapids, MI, Southfield, MI, St Joseph, MI | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Development-Support-and-Operations-Internship-Summer-2027_R227468) |
 | Nissan Global | Financial AI Engineer Intern | Franklin, TN | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241) |
 | KLA | AI/ML Software Engineer Intern | Ann Arbor, MI | — | 2026-10-12 | Not stated | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1) |
@@ -506,7 +504,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Crown Innovations | Intern | Mountain View, CA | — | 2026-10-12 | Not stated | [Apply](https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144112445) |
 | General Dynamics Information Technology | Software Development Intern | Falls Church, VA | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1) |
 | AtkinsRéalis | Software Developer Intern | Denver, CO | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1) |
-| RTX | Software Engineer Intern | Fullerton, CA | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741) |
 | Corewell Health | Digital Services Development Support and Operations Internship | Grand Rapids, MI, Southfield, MI, St Joseph, MI | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Development-Support-and-Operations-Internship-Summer-2027_R227468) |
 | Nissan Global | Financial AI Engineer Intern | Franklin, TN | Summer 2027 | 2026-10-12 | Not stated | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241) |
 | KLA | AI/ML Software Engineer Intern | Ann Arbor, MI | — | 2026-10-12 | Not stated | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1) |
@@ -1276,7 +1273,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Genuine Parts Company | Customer Software Development Intern | Birmingham, AL | Summer 2026 | 2026-09-01 | Not stated | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135) |
 | Genuine Parts Company | Software Developer Intern | Birmingham, AL | Summer 2026 | 2026-09-01 | Not stated | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140) |
 | US Foods | Software Engineer Intern - Legacy Systems | Rosemont, IL | Summer 2026 | 2026-09-01 | Not stated | [Apply](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Legacy-Systems--Hybrid--Onsite---Remote-_R282106) |
-| First National Bank | Application Development Intern | Pittsburgh, PA | Summer 2027 | 2026-09-01 | Not stated | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Application-Development-Intern_2026-01847) |
 | AeroVironment | Software Engineer Intern | Germantown, MD, Annapolis Junction, MD, Pottstown, PA +11 more | Summer 2027 | 2026-09-01 | Not stated | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611) |
 | Vermeer | Software Engineer Intern - IT | Pella, IA | Summer 2027 | 2026-09-01 | Not stated | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) |
 | Clearwater Analytics | Software Development Intern | Chicago, IL | Winter 2026 | 2026-09-01 | Not stated | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12188) |
