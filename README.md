@@ -1,6 +1,6 @@
 # US Software Engineering Internships
 
-**1332 open internships** you haven't applied to · **288 new** since the last check ·
+**1331 open internships** you haven't applied to · **287 new** since the last check ·
 **98** posted in the last 7 days · **0** applied · data as of 2026-10-18
 
 Refreshed every 6 hours by GitHub Actions (`.github/workflows/internships.yml`) from the
@@ -150,7 +150,6 @@ the rest don't say, so check the posting.
 | General Dynamics Mission Systems | Software/Systems Engineering Intern | Middletown, RI | Summer 2027 | 2026-10-08 | Not stated | [Apply](https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false) |
 | General Dynamics Mission Systems | Software Engineer Intern | Fort Wayne, IN | — | 2026-10-08 | Not stated | [Apply](https://careers-gdms.icims.com/jobs/75159/job?mobile=true&needsRedirect=false) |
 | DocuSign | Software Engineer Intern | Seattle, WA | — | 2026-10-08 | Not stated | [Apply](https://careers.docusign.com/jobs/30478?icims=1) |
-| DocuSign | Software Engineer Intern - Observability - Platform | Seattle, WA | — | 2026-10-08 | Not stated | [Apply](https://careers.docusign.com/jobs/30510?icims=1) |
 | Keysight Technologies | R&D Software Engineer Intern | Calabasas, CA | — | 2026-10-08 | Not stated | [Apply](https://jobs.keysight.com/jobs/54640?icims=1) |
 | Viget | Software Developer Intern | Boulder, CO | Summer 2027 | 2026-10-08 | Not stated | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply) |
 | Tesla | Software Integration Engineer Intern - Service Tooling | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-08 | Not stated | [Apply](https://www.tesla.com/careers/search/job/286127) |
@@ -550,7 +549,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | General Dynamics Mission Systems | Software/Systems Engineering Intern | Middletown, RI | Summer 2027 | 2026-10-08 | Not stated | [Apply](https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false) |
 | General Dynamics Mission Systems | Software Engineer Intern | Fort Wayne, IN | — | 2026-10-08 | Not stated | [Apply](https://careers-gdms.icims.com/jobs/75159/job?mobile=true&needsRedirect=false) |
 | DocuSign | Software Engineer Intern | Seattle, WA | — | 2026-10-08 | Not stated | [Apply](https://careers.docusign.com/jobs/30478?icims=1) |
-| DocuSign | Software Engineer Intern - Observability - Platform | Seattle, WA | — | 2026-10-08 | Not stated | [Apply](https://careers.docusign.com/jobs/30510?icims=1) |
 | Keysight Technologies | R&D Software Engineer Intern | Calabasas, CA | — | 2026-10-08 | Not stated | [Apply](https://jobs.keysight.com/jobs/54640?icims=1) |
 | Viget | Software Developer Intern | Boulder, CO | Summer 2027 | 2026-10-08 | Not stated | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply) |
 | Tesla | Software Integration Engineer Intern - Service Tooling | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-08 | Not stated | [Apply](https://www.tesla.com/careers/search/job/286127) |
