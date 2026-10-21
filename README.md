@@ -1,7 +1,7 @@
 # US Software Engineering Internships
 
-**1345 open internships** you haven't applied to · **335 new** since the last check ·
-**107** posted in the last 7 days · **0** applied · data as of 2026-10-21
+**1337 open internships** you haven't applied to · **333 new** since the last check ·
+**106** posted in the last 7 days · **0** applied · data as of 2026-10-21
 
 Refreshed every 6 hours by GitHub Actions (`.github/workflows/internships.yml`) from the
 community-maintained [SimplifyJobs internship list](https://github.com/SimplifyJobs/Summer2027-Internships): open listings, software engineering,
@@ -114,7 +114,6 @@ the rest don't say, so check the posting.
 | CoverMyMeds | CMM Technology Intern | Columbus, OH | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2) |
 | Leidos | Performance Enablement AI/ML Intern | Remote in USA | — | 2026-10-15 | Not stated | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656) |
 | Johnson & Johnson | Technology IM R&D Co-op | Raritan, NJ | Spring 2027 | 2026-10-15 | Not stated | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Technology-Off-Cycle-Co-Op_R-099204) |
-| Sierra Nevada Corporation | Software Engineer Intern | Lone Tree, CO | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031098) |
 | Axiom Space | Software Engineer Intern | Houston, TX | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767) |
 | T-Mobile | Software Engineer Intern | Bellevue, WA | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322) |
 | Meta | Manufacturing Test Engineer Intern - AI | Sunnyvale, CA | — | 2026-10-14 | Not stated | [Apply](https://www.metacareers.com/jobs/954380870617862) |
@@ -202,7 +201,6 @@ the rest don't say, so check the posting.
 | SoloPulse | Software Engineer Intern Co-op | Peachtree Corners, GA | Spring 2027 | 2026-10-08 | Not stated | [Apply](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef/apply) |
 | General Dynamics Mission Systems | Software/Systems Engineering Intern | Middletown, RI | Summer 2027 | 2026-10-08 | Not stated | [Apply](https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false) |
 | General Dynamics Mission Systems | Software Engineer Intern | Fort Wayne, IN | — | 2026-10-08 | Not stated | [Apply](https://careers-gdms.icims.com/jobs/75159/job?mobile=true&needsRedirect=false) |
-| DocuSign | Software Engineer Intern | Seattle, WA | — | 2026-10-08 | Not stated | [Apply](https://careers.docusign.com/jobs/30478?icims=1) |
 | Keysight Technologies | R&D Software Engineer Intern | Calabasas, CA | — | 2026-10-08 | Not stated | [Apply](https://jobs.keysight.com/jobs/54640?icims=1) |
 | Viget | Software Developer Intern | Boulder, CO | Summer 2027 | 2026-10-08 | Not stated | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply) |
 | Tesla | Software Integration Engineer Intern - Service Tooling | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-08 | Not stated | [Apply](https://www.tesla.com/careers/search/job/286127) |
@@ -458,7 +456,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | CoverMyMeds | CMM Technology Intern | Columbus, OH | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2) |
 | Leidos | Performance Enablement AI/ML Intern | Remote in USA | — | 2026-10-15 | Not stated | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656) |
 | Johnson & Johnson | Technology IM R&D Co-op | Raritan, NJ | Spring 2027 | 2026-10-15 | Not stated | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Technology-Off-Cycle-Co-Op_R-099204) |
-| Sierra Nevada Corporation | Software Engineer Intern | Lone Tree, CO | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031098) |
 | Axiom Space | Software Engineer Intern | Houston, TX | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767) |
 | T-Mobile | Software Engineer Intern | Bellevue, WA | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322) |
 | Meta | Manufacturing Test Engineer Intern - AI | Sunnyvale, CA | — | 2026-10-14 | Not stated | [Apply](https://www.metacareers.com/jobs/954380870617862) |
@@ -570,7 +567,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | CoverMyMeds | CMM Technology Intern | Columbus, OH | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2) |
 | Leidos | Performance Enablement AI/ML Intern | Remote in USA | — | 2026-10-15 | Not stated | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656) |
 | Johnson & Johnson | Technology IM R&D Co-op | Raritan, NJ | Spring 2027 | 2026-10-15 | Not stated | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Technology-Off-Cycle-Co-Op_R-099204) |
-| Sierra Nevada Corporation | Software Engineer Intern | Lone Tree, CO | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031098) |
 | Axiom Space | Software Engineer Intern | Houston, TX | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767) |
 | T-Mobile | Software Engineer Intern | Bellevue, WA | Summer 2027 | 2026-10-15 | Not stated | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322) |
 | Meta | Manufacturing Test Engineer Intern - AI | Sunnyvale, CA | — | 2026-10-14 | Not stated | [Apply](https://www.metacareers.com/jobs/954380870617862) |
@@ -658,7 +654,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | SoloPulse | Software Engineer Intern Co-op | Peachtree Corners, GA | Spring 2027 | 2026-10-08 | Not stated | [Apply](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef/apply) |
 | General Dynamics Mission Systems | Software/Systems Engineering Intern | Middletown, RI | Summer 2027 | 2026-10-08 | Not stated | [Apply](https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false) |
 | General Dynamics Mission Systems | Software Engineer Intern | Fort Wayne, IN | — | 2026-10-08 | Not stated | [Apply](https://careers-gdms.icims.com/jobs/75159/job?mobile=true&needsRedirect=false) |
-| DocuSign | Software Engineer Intern | Seattle, WA | — | 2026-10-08 | Not stated | [Apply](https://careers.docusign.com/jobs/30478?icims=1) |
 | Keysight Technologies | R&D Software Engineer Intern | Calabasas, CA | — | 2026-10-08 | Not stated | [Apply](https://jobs.keysight.com/jobs/54640?icims=1) |
 | Viget | Software Developer Intern | Boulder, CO | Summer 2027 | 2026-10-08 | Not stated | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply) |
 | Tesla | Software Integration Engineer Intern - Service Tooling | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-08 | Not stated | [Apply](https://www.tesla.com/careers/search/job/286127) |
@@ -829,7 +824,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Thrivent | Application Engineer Intern - Investments | Minneapolis, MN | Summer 2027 | 2026-09-29 | Not stated | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2) |
 | Q2 | Software Engineer Intern | Cary, NC | Summer 2027 | 2026-09-29 | Not stated | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798) |
 | Invesco | Early Career Intern - Technology | Atlanta, GA | Summer 2027 | 2026-09-29 | Not stated | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) |
-| Invesco | Early Career Intern - Technology | Atlanta, GA | Summer 2027 | 2026-09-29 | Not stated | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619) |
 | CACI | Software Engineer Intern | Omaha, NE | Summer 2027 | 2026-09-29 | Not stated | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776) |
 | Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | Summer 2027 | 2026-09-29 | Not stated | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1) |
 | Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | Summer 2027 | 2026-09-29 | Not stated | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848) |
@@ -843,7 +837,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | GovSignals | Engineering Intern | Remote in USA | Fall 2026 | 2026-09-26 | Not stated | [Apply](https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true) |
 | Tesla | Mobile Application Software Engineer Intern - Energy Engineering | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-26 | Not stated | [Apply](https://www.tesla.com/careers/search/job/284776) |
 | Bedrock Robotics | Safety Engineer Intern - Agentic Safety Case Assessment | SF | Summer 2027 | 2026-09-25 | Not stated | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178/application?embed=true) |
-| Waymo | Software Engineer Intern - Driver Refinement Foundations | Mountain View, CA | Summer 2027 | 2026-09-25 | Not stated | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8224900) |
 | Waymo | Software Engineering Intern - MS/PhD - Sys Intel & ML | Mountain View, CA | Summer 2027 | 2026-09-25 | Not stated | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8234161) |
 | Waymo | Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics | Mountain View, CA | Summer 2027 | 2026-09-25 | Not stated | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8231711) |
 | Keysight Technologies | Software Developer Intern | Austin, TX, Raleigh, NC | Winter 2026 | 2026-09-25 | Not stated | [Apply](https://jobs.keysight.com/jobs/54638?icims=1) |
@@ -936,7 +929,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | KLA | Software Engineering Intern - C++ - Unix | Milpitas, CA | Winter 2026 | 2026-09-22 | Not stated | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) |
 | RTX | Software Engineer Intern | East Hartford, CT | Summer 2027 | 2026-09-22 | Not stated | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645) |
 | SingleStore | Software Engineer Intern - Engine | United States | Winter 2026 | 2026-09-21 | Not stated | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220919) |
-| SingleStore | Software Engineer Intern - Helios | United States | Winter 2026 | 2026-09-21 | Not stated | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220941) |
 | Assured Guaranty | Product Software Developer - Back-End | NYC | — | 2026-09-21 | Not stated | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8827458002) |
 | Assured Guaranty | Product Software Developer - Front-End | NYC | — | 2026-09-21 | Not stated | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8827460002) |
 | Geneva Trading | C++ Developer Intern | Chicago, IL | Summer 2026 | 2026-09-21 | Not stated | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) |
@@ -1014,7 +1006,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | RTX | Software Engineer Intern | Tucson, AZ | Winter 2026 | 2026-09-16 | Not stated | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282) |
 | KBR | Image Processing Software Engineer Intern | Sioux Falls, SD | Summer 2026 | 2026-09-16 | Not stated | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067) |
 | KBR | Data Processing Systems Engineer Intern | Sioux Falls, SD | Winter 2026 | 2026-09-16 | Not stated | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060) |
-| Graco | Software Engineer Intern - Commerce Applications | Dayton, MN | Winter 2026 | 2026-09-16 | Not stated | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556) |
 | AspenTech | Software Development Intern | Medina, MN | Summer 2027 | 2026-09-16 | Not stated | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456) |
 | CoStar Group | Technology Intern | Irvine, CA | Summer 2027 | 2026-09-16 | Not stated | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673) |
 | Zions Bank | Software Engineer Intern | United States | Summer 2026 | 2026-09-15 | Not stated | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071639) |
@@ -1051,7 +1042,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Tesla | Software Integration Engineer Intern - Factory Firmware | Palo Alto, CA | Spring 2027 | 2026-09-14 | Not stated | [Apply](https://www.tesla.com/careers/search/job/283395) |
 | Google | User Experience Engineer Intern - PhD - Summer 2027 | Palo Alto, CA, Cambridge, MA, Madison, WI +22 more | Summer 2027 | 2026-09-14 | Not stated | [Apply](https://www.google.com/about/careers/applications/jobs/results/117572151191446214) |
 | Flagship Pioneering | AI Automation Engineering Co-op | Cambridge, MA | Winter 2027, Spring 2027 | 2026-09-14 | Not stated | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002) |
-| SingleStore | Software Engineer Intern | United States | Winter 2026 | 2026-09-14 | Not stated | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8154399) |
 | National Life | IT Application Development Intern | Montpelier, VT, Addison, TX | Summer 2027 | 2026-09-14 | Not stated | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009) |
 | Tive | Software Engineer Co-op | Boston, MA | Winter 2027, Summer 2027 | 2026-09-14 | Not stated | [Apply](https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0) |
 | Figma | Software Engineer Intern | SF, NYC | Summer 2027 | 2026-09-14 | Not stated | [Apply](https://boards.greenhouse.io/figma/jobs/6143238004) |
@@ -1216,7 +1206,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Red Hat | Software Engineer Co-op | Boston, MA, Raleigh, NC, Lowell, MA | Winter 2026 | 2026-09-08 | Not stated | [Apply](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Co-op_R-059039) |
 | Red Hat | Software Engineer Intern | Boston, MA, Raleigh, NC, Durham, NC +1 more | Winter 2026 | 2026-09-08 | Not stated | [Apply](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038) |
 | Cboe | Software Engineer Intern - Web | Chicago, IL, Kansas City, MO, NYC | Summer 2026 | 2026-09-08 | Not stated | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Software-Engineer-Intern_R-4654) |
-| Booz Allen | Applied AI Intern | Washington, DC | Summer 2028 | 2026-09-08 | Not stated | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University--Applied-AI-Intern_R0248853) |
 | Baird | IT AI & Automation Intern | Milwaukee, WI | Summer 2027 | 2026-09-08 | Not stated | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1) |
 | Fab2 | Rust Software Engineer Intern - Chip Design Tools - Multiple Teams | SF, Austin, TX | Summer 2026 | 2026-09-05 | Not stated | [Apply](https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361/application?embed=true) |
 | Fab2 | Software Engineer Intern | SF, Austin, TX | Summer 2026 | 2026-09-05 | Not stated | [Apply](https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0/application?embed=true) |
