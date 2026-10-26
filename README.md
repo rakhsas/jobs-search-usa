@@ -1,7 +1,7 @@
 # US Software Engineering Internships
 
 **1264 open internships** you haven't applied to · **386 new** since the last check ·
-**136** posted in the last 7 days · **0** applied · data as of 2026-10-24
+**128** posted in the last 7 days · **0** applied · data as of 2026-10-24
 
 Refreshed every 6 hours by GitHub Actions (`.github/workflows/internships.yml`) from the
 community-maintained [SimplifyJobs internship list](https://github.com/SimplifyJobs/Summer2027-Internships): open listings, software engineering,
@@ -541,14 +541,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Amplify | Software Engineer Intern | Remote in USA | Summer 2027 | 2026-10-19 | Not stated | [Apply](https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true) |
 | Bracebridge Capital | Software Engineer: Business Intelligence Co-op | Boston, MA | — | 2026-10-19 | Not stated | [Apply](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005) |
 | Bracebridge Capital | Software Engineer Co-op - Application Development | Boston, MA | — | 2026-10-19 | Not stated | [Apply](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005) |
-| HeyGen | Software Engineer Intern | SF, LA | Winter 2027 | 2026-10-19 | Not stated | [Apply](https://job-boards.greenhouse.io/heygen/jobs/4540716007) |
-| BorgWarner | EPMO Support Intern | Auburn Hills, MI | — | 2026-10-19 | Not stated | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129) |
-| Salesforce | Software Engineer Intern | SF, Bellevue, WA | Summer 2027 | 2026-10-19 | Not stated | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |
-| Cognex | Software Engineer Intern | Wauwatosa, WI | Summer 2027 | 2026-10-19 | Not stated | [Apply](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549) |
-| American Fidelity | Software Developer Intern | Oklahoma City, OK | — | 2026-10-19 | Not stated | [Apply](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118) |
-| The Toro Company | Cloud Software Developer Intern | Frederick, CO | Summer 2027 | 2026-10-19 | Not stated | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) |
-| Salesforce | Software Engineer Intern | SF, Bellevue, WA | Summer 2027 | 2026-10-19 | Not stated | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) |
-| Adobe | AI & Architecture Intern | San Jose, CA | Summer 2027 | 2026-10-19 | Not stated | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) |
 
 ## All open internships
 
