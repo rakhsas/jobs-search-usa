@@ -1,6 +1,6 @@
 # US Software Engineering Internships
 
-**1354 open internships** you haven't applied to · **545 new** since the last check ·
+**1350 open internships** you haven't applied to · **544 new** since the last check ·
 **139** posted in the last 7 days · **0** applied · data as of 2026-10-31
 
 Refreshed every 6 hours by GitHub Actions (`.github/workflows/internships.yml`) from the
@@ -562,7 +562,6 @@ the rest don't say, so check the posting.
 | Axos Bank | Automation Analyst Intern | San Diego, CA | Summer 2026 | 2026-04-16 | Not stated | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Automation-Analyst-Intern_JR4507) |
 | Latent Defense | Software Engineer Intern | NYC | — | 2026-04-15 | Not stated | [Apply](https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487/application?embed=true) |
 | ByteDance | Student Researcher - AI Foundation Model Infrastructure | Seattle, WA | — | 2026-04-01 | Not stated | [Apply](https://jobs.bytedance.com/en/position/7623552947364317445/detail) |
-| Mantari | Software Engineering Intern | LA | Summer 2026 | 2026-03-05 | Not stated | [Apply](https://job-boards.greenhouse.io/mantari/jobs/4173646009) |
 
 ## Applied
 
@@ -1600,7 +1599,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Cheiron | Agent Engineer Intern | Los Altos, CA | Winter 2026 | 2026-09-02 | Not stated | [Apply](https://jobs.ashbyhq.com/cheiron/36763c16-8996-4c66-b693-d48329413678/application?embed=true) |
 | Dedalus Labs | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 | Not stated | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 | Tesla | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA | Summer 2027 | 2026-09-02 | Not stated | [Apply](https://www.tesla.com/careers/search/job/282147) |
-| Textron | Software Engineer Intern | Augusta, GA | Summer 2027 | 2026-09-02 | Not stated | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299) |
 | Tesla | Vehicle Software Engineer Intern - Diagnostic User Interface | Palo Alto, CA | Winter 2027 | 2026-09-02 | Not stated | [Apply](https://www.tesla.com/careers/search/job/281921) |
 | Genuine Parts Company | Web Developer Intern | Birmingham, AL | Summer 2026 | 2026-09-02 | Not stated | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238) |
 | Stryker | Commercial Operations Software Engineer Intern | Flower Mound, TX | Winter 2026 | 2026-09-02 | Not stated | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941) |
@@ -1785,7 +1783,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | TikTok | Software Engineer Intern - TikTok Search Data Infra | San Jose, CA | Summer 2027 | 2026-08-18 | Not stated | [Apply](https://lifeattiktok.com/search/7675128776856029445) |
 | TikTok | Software Engineer Intern - TikTok Search Data Infrastructure | San Jose, CA | Fall 2027 | 2026-08-18 | Not stated | [Apply](https://lifeattiktok.com/search/7675129440242010421) |
 | Illinois Tool Works | Software Engineer Intern | Appleton, WI | Summer 2026 | 2026-08-18 | Not stated | [Apply](https://careers.itw.com/global/en/job/JR9516) |
-| American Express | AI Engineer Intern - Enterprise Technology Services | Atlanta, GA | Summer 2027 | 2026-08-18 | Not stated | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) |
 | RegDesk | Front End Developer Intern | Philadelphia, PA | Fall 2026 | 2026-08-18 | Not stated | [Apply](https://jobs.smartrecruiters.com/RegDeskInc/92145731) |
 | SightCall | Web Developer Intern | SF | Fall 2026 | 2026-08-18 | Not stated | [Apply](https://jobs.smartrecruiters.com/SightCall/80298252) |
 | Encephalo Investments | Software Developer Intern | Woodbury, MN | Fall 2026 | 2026-08-18 | Not stated | [Apply](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349) |
@@ -1797,7 +1794,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | American Express | AI Engineer Intern - Enterprise Technology Services | NYC | Summer 2027 | 2026-08-17 | Not stated | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698) |
 | American Express | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | 2026-08-17 | Not stated | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084) |
 | W.W. Grainger | Software Engineer Intern - Grainger Technology Group | Chicago, IL | Summer 2027 | 2026-08-17 | Not stated | [Apply](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors) |
-| American Express | Software Engineer Intern - Enterprise Technology Services | Charlotte, NC | Summer 2027 | 2026-08-17 | Not stated | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) |
 | American Express | Software Engineer Intern - Enterprise Technology Services | NYC | Summer 2027 | 2026-08-17 | Not stated | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) |
 | Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | Summer 2027 | 2026-08-15 | Not stated | [Apply](https://higher.gs.com/roles/171565?type=students) |
 | Goldman Sachs | Summer Analyst Intern - Engineering | Dallas, TX | Summer 2027 | 2026-08-15 | Not stated | [Apply](https://higher.gs.com/roles/171553?type=students) |
@@ -2069,4 +2065,3 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Smiths Detection | Software Engineering Intern (Cyber focus) | Edgewood, MD | Summer 2026 | 2026-03-12 | US citizens only | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/a22945f0-59b6-4c3f-87f1-43c05b535677) |
 | Mizuho Securities USA | Commercial Lending Technology Intern | NYC | Summer 2026 | 2026-03-11 | Not stated | [Apply](https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688) |
 | Palantir | Forward Deployed Software Engineer Intern | NYC | Fall 2026 | 2026-03-10 | Not stated | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply) |
-| Mantari | Software Engineering Intern | LA | Summer 2026 | 2026-03-05 | Not stated | [Apply](https://job-boards.greenhouse.io/mantari/jobs/4173646009) |
