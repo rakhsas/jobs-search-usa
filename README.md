@@ -1,7 +1,7 @@
 # US Software Engineering Internships
 
-**1401 open internships** you haven't applied to · **614 new** since the last check ·
-**130** posted in the last 7 days · **0** applied · data as of 2026-11-07
+**1399 open internships** you haven't applied to · **612 new** since the last check ·
+**129** posted in the last 7 days · **0** applied · data as of 2026-11-07
 
 Refreshed every 6 hours by GitHub Actions (`.github/workflows/internships.yml`) from the
 community-maintained [SimplifyJobs internship list](https://github.com/SimplifyJobs/Summer2027-Internships): open listings, software engineering,
@@ -124,7 +124,6 @@ the rest don't say, so check the posting.
 | Tria Federal | Growth Operations Intern | Arlington County, Arlington, VA | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://triafed.com/jobs/?gh_jid=5470246008) |
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | Spring 2027 | 2026-11-02 | Not stated | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007) |
 | ParetoHealth | Software Engineer Intern | Philadelphia, PA | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006) |
-| Microsoft | Explore Program Engineering Intern | Redmond, WA | — | 2026-11-02 | Not stated | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556925823) |
 | Roku | Software Engineer Intern - AI Engineering | San Jose, CA | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) |
 | Entrust | AI Developer Intern | Shakopee, MN | — | 2026-11-02 | Not stated | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) |
 | KLA Corporation | Software Engineer Intern | Austin, TX | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1) |
@@ -600,7 +599,6 @@ the rest don't say, so check the posting.
 | Ernst & Young | Vector Capitalization Intern - Multiple Teams | Houston, TX, Dallas, TX, Atlanta, GA | Summer 2027 | 2026-09-04 | Not stated | [Apply](https://eyglobal.yello.co/jobs/LBmQQDFgzrEW53QwXVMXLw?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | Apex | Ground Software Intern - Spring or Summer 2027 | LA | Spring 2027, Summer 2027 | 2026-09-03 | Not stated | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c/application?embed=true) |
 | Tesla | Software Engineer Intern - SI Data Infrastructure | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 | Not stated | [Apply](https://www.tesla.com/careers/search/job/282292) |
-| Edison International | Computer Science Intern | Alhambra, CA, Pomona, CA, Rosemead, CA | Summer 2027 | 2026-09-01 | Not stated | [Apply](https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors) |
 | Rockwell Automation | Information Technology Intern | Milwaukee, WI | — | 2026-09-01 | Not stated | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2) |
 | Rockwell Automation | Information Technology Intern | Milwaukee, WI | — | 2026-09-01 | Not stated | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-1) |
 | C3.ai | Software Engineer Intern | Redwood City, CA | Summer 2027 | 2026-08-31 | Not stated | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
@@ -747,7 +745,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Tria Federal | Growth Operations Intern | Arlington County, Arlington, VA | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://triafed.com/jobs/?gh_jid=5470246008) |
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | Spring 2027 | 2026-11-02 | Not stated | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007) |
 | ParetoHealth | Software Engineer Intern | Philadelphia, PA | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006) |
-| Microsoft | Explore Program Engineering Intern | Redmond, WA | — | 2026-11-02 | Not stated | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556925823) |
 | Roku | Software Engineer Intern - AI Engineering | San Jose, CA | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) |
 | Entrust | AI Developer Intern | Shakopee, MN | — | 2026-11-02 | Not stated | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) |
 | KLA Corporation | Software Engineer Intern | Austin, TX | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1) |
@@ -882,7 +879,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Tria Federal | Growth Operations Intern | Arlington County, Arlington, VA | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://triafed.com/jobs/?gh_jid=5470246008) |
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | Spring 2027 | 2026-11-02 | Not stated | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007) |
 | ParetoHealth | Software Engineer Intern | Philadelphia, PA | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006) |
-| Microsoft | Explore Program Engineering Intern | Redmond, WA | — | 2026-11-02 | Not stated | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556925823) |
 | Roku | Software Engineer Intern - AI Engineering | San Jose, CA | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) |
 | Entrust | AI Developer Intern | Shakopee, MN | — | 2026-11-02 | Not stated | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) |
 | KLA Corporation | Software Engineer Intern | Austin, TX | Summer 2027 | 2026-11-02 | Not stated | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1) |
@@ -1763,7 +1759,6 @@ _None yet. Add Apply links to [applied.txt](applied.txt), one per line._
 | Textron | Software Engineer Co-op - Uncrewed Land & Air | Hunt Valley, Cockeysville, MD | Summer 2027 | 2026-09-01 | Not stated | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650) |
 | Stripe | Software Engineer Intern - Summer or Winter | Seattle, WA, SF, NYC | Summer 2026, Winter 2027 | 2026-09-01 | Not stated | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
 | Edison International | Computer Science Intern | Santa Ana, CA | Summer 2027 | 2026-09-01 | Not stated | [Apply](https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors) |
-| Edison International | Computer Science Intern | Alhambra, CA, Pomona, CA, Rosemead, CA | Summer 2027 | 2026-09-01 | Not stated | [Apply](https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors) |
 | Tesla | Software Engineer Intern - Core AI Compiler & Runtime | Palo Alto, CA | Spring 2027 | 2026-09-01 | Not stated | [Apply](https://www.tesla.com/careers/search/job/281951) |
 | WhatNot | Software Engineer Intern | Seattle, WA, SF, LA +1 more | Summer 2027 | 2026-09-01 | Not stated | [Apply](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true) |
 | Sierra | Software Engineer Intern | SF, NYC | Summer 2027 | 2026-09-01 | Not stated | [Apply](https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true) |
